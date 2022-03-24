@@ -22,6 +22,7 @@
     "sls": "./bin/serverless.js"
   },
   "dependencies": {
+    "@serverless/compose-beta": "^0.0.7",
     "@serverless/dashboard-plugin": "^6.1.6",
     "@serverless/platform-client": "^4.3.2",
     "@serverless/utils": "^6.0.3",
